@@ -448,8 +448,14 @@ padding: 0 48px !important;
   color: #e82020;
   
 }
-@media screen {
-  
+@media (max-width:1010px) {
+  .where-heading{
+    font-size: 0.9rem;
+  }
+  .when-heading{{
+    font-size: 0.9rem;
+
+  }
 }
 .when-details{
    font-family: 'Montserrat', sans-serif;
