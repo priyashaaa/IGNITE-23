@@ -1,0 +1,170 @@
+<!-- Campaign 
+
+    <!-- Mobile Screen -->
+
+    <div class="campaign-mobile reveal">
+
+    <div class="intro">
+        <h1 class="campaign-head">CAMPAIGNS</h1>
+        <h1 class="campaign-subhead">WE AIM TO SUSTAIN</h1>
+    </div>
+    <div class="gallery_container-all">
+        <div class="row">
+
+        </div>
+        <div class="gallery_container">
+          <img src="assets\imgs\Campaigns\Adira.png" alt="Image description goes here">
+          <span class="gallery_title">Adira</span>
+          <!-- <span class="gallery_text">Morbi diam viverra mattis sociis magna, habitasse penatibus non lectus</span> -->
+        </div>
+        <div class="gallery_container">
+          <img src="assets\imgs\Campaigns\Cognito.png" alt="Image description goes here">
+          <span class="gallery_title">Cognito</span>
+          <!-- <span class="gallery_text">Morbi diam viverra mattis sociis magna, habitasse penatibus non lectus</span> -->
+        </div>
+        <div class="gallery_container">
+          <img src="assets\imgs\Campaigns\Eudaimonia.png" alt="Image description goes here">
+          <span class="gallery_title">Eudaimonia</span>
+          <!-- <span class="gallery_text">Morbi diam viverra mattis sociis magna, habitasse penatibus non lectus</span> -->
+        </div>
+        <div class="gallery_container">
+          <img src="assets\imgs\Campaigns\Inayat.png" alt="Image description goes here">
+          <span class="gallery_title">Inayat</span>
+          <!-- <span class="gallery_text">Morbi diam viverra mattis sociis magna, habitasse penatibus non lectus</span> -->
+        </div>
+        <div class="gallery_container">
+          <img src="assets\imgs\Campaigns\Pejas.png" alt="Image description goes here">
+          <span class="gallery_title">Pejas</span>
+          <!-- <span class="gallery_text">Morbi diam viverra mattis sociis magna, habitasse penatibus non lectus</span> -->
+        </div>
+        <div class="gallery_container">
+          <img src="assets\imgs\Campaigns\Sashak_Drishti.png" alt="Image description goes here">
+          <span class="gallery_title">Sashakt Drishti</span>
+          <!-- <span class="gallery_text">Morbi diam viverra mattis sociis magna, habitasse penatibus non lectus</span> -->
+        </div>
+    </div>
+    </div>
+    <!-- End: Mobile Screen -->
+
+    <!-- Laptop Screen -->
+    <div class="campaign-laptop mt-5 reveal">
+        <div>
+            <h1 class="campaign-head">CAMPAIGNS</h1>
+            <h1 class="campaign-subhead mb-5">WE AIM TO SUSTAIN</h1>
+        </div>
+
+        <div class="main">
+            <div class="slider">
+              <div class="car">
+                <div class="card2">
+                  <div class="card-header">
+          
+                    <img src="assets\imgs\Campaigns\Adira.png">
+                    <div id="" class="middle">
+                      <div class="text text-dark ml-4">Adira</div>
+                    </div>
+                  </div>
+          
+                  <!-- <div class="card-body2">
+                    <div class="card-content">
+                      <div class="card-title-2">Adira</div>         
+                    </div>
+                  </div> -->
+                </div>
+              </div>
+              <div class="car">
+                <div class="card2">
+                  <div class="card-header">
+          
+                    <img src="assets\imgs\Campaigns\Cognito.png">
+                    <div class="middle">
+                      <div class="text text-dark ml-4">Cognito</div>
+                    </div>
+                  </div>
+          
+                  <!-- <div class="card-body2">
+                    <div class="card-content">
+                      <div class="card-title-2">Cognito</div>          
+                    </div>
+                  </div> -->
+                </div>
+              </div>
+              <div class="car">
+                <div class="card2">
+                  <div class="card-header">
+          
+                    <img src="assets\imgs\Campaigns\Eudaimonia.png">
+                    <div class="middle">
+                      <div class="text text-dark ml-4">Eudaimonia</div>
+                    </div>
+                  </div>
+          
+                  <!-- <div class="card-body2">
+                    <div class="card-content">
+                      <div class="card-title-2">Eudaimonia</div>
+          
+                    </div>
+                  </div> -->
+          
+                </div>
+              </div>
+              <div class="car">
+                <div class="card2">
+                  <div class="card-header">
+                    <img src="assets\imgs\Campaigns\Inayat.png">
+                    <div class="middle">
+                      <div class="text text-dark ml-4">Inayat</div>
+                    </div>
+                  </div>
+                  <!-- <div class="card-body2">
+          
+                    <div class="card-content">
+                      <div class="card-title-2">Inayat</div>
+          
+                    </div>
+                  </div> -->
+                </div>
+              </div>
+              <div class="car">
+                <div class="card2">
+                  <div class="card-header">
+                    <img src="assets\imgs\Campaigns\Pejas.png">
+                    <div class="middle">
+                      <div class="text text-dark ml-4">Pejas</div>
+                    </div>
+                  </div>
+                  <!-- <div class="card-body2">
+          
+                    <div class="card-content">
+                      <div class="card-title-2">Pejas</div>
+          
+                    </div>
+                  </div> -->
+                </div>
+              </div>
+              <div class="car">
+                <div class="card2">
+                  <div class="card-header">
+                    <img src="assets\imgs\Campaigns\Sashak_Drishti.png">
+                    <div class="middle">
+                      <div class="text text-dark ml-4">Sashakt Drishti</div>
+                    </div>
+                  </div>
+                  <!-- <div class="card-body2">
+                    <div class="card-content">
+                      <div class="card-title-2">Sashakt Drishti
+                      </div>
+          
+                    </div>
+                  </div> -->
+                </div>
+              </div>
+            </div>
+          </div>
+    </div> 
+
+
+    <!-- End: Laptop Screen -->
+
+    <!-- End of Campaign Section -->
+Section -->
